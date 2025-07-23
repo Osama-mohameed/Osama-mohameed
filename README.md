@@ -8,7 +8,7 @@
 <!-- Typing SVG by DenverCoder1 -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Developer%20%7C%20Odoo%20Technical%20Consultant;Odoo%20ERP%20%7C%20Backend%20%7C%20Custom%20Modules&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines= Python%20Developer%20%7C%20Odoo%20Technical%20Consultant;Odoo%20ERP%20%7C%20Backend%20%7C%20Custom%20Modules&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p> 
 
