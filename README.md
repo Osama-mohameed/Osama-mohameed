@@ -146,22 +146,7 @@ Become an **AI Engineer** building production-ready AI applications that combine
 
 # 🌍 Connect With Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/osama-alzurady-8a7395214/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://t.me/Osama0_Mohamed">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram"/>
-</a>
-
-<a href="https://www.instagram.com/osama.alzerady/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-</p>
-
+<a href="https://www.linkedin.com/in/osama-alzurady-8a7395214/" target="_blank"> <img src="https://img.shields.io/badge/-Osama%20Alzerady-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a> <a href="https://t.me/Osama0_Mohamed" target="_blank"> <img src="https://img.shields.io/badge/-Osama%20Alzerady-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/> </a> <a href="https://www.instagram.com/osama.alzerady/" target="_blank"> <img src="https://img.shields.io/badge/-Osama%20Alzerady-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 ---
 
 <p align="center">
