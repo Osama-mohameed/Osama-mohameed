@@ -143,15 +143,6 @@ Become an **AI Engineer** building production-ready AI applications that combine
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Osama-mohameed&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🌍 Connect With Me
 
